@@ -1,6 +1,6 @@
 # **Sigma Python Project**
 
-Welcome to **SigmaPython!** This repository contains a diverse collection of Python projects, each built to demonstrate different programming concepts and enhance skills. From simple calculators and educational tools to interactive games and practical applications, explore the power of Python through these projects.
+Welcome to **Sigma Python!** This repository contains a diverse collection of Python projects, each built to demonstrate different programming concepts and enhance skills. From simple calculators and educational tools to interactive games and practical applications, explore the power of Python through these projects.
 
 ## **Projects Included:**
 
