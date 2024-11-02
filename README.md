@@ -1,50 +1,60 @@
-Sigma Python Project
+**Sigma Python Project**
 
 Welcome to SigmaPython! This repository contains a diverse collection of Python projects, each built to demonstrate different programming concepts and enhance skills. From simple calculators and educational tools to interactive games and practical applications, explore the power of Python through these projects.
 
-Projects Included:
+**Projects Included:**
 
-1. Calculator in Python
+1. **Calculator in Python**
+2. 
 A basic yet effective calculator that can perform addition, subtraction, multiplication, and division. Perfect for beginners to understand arithmetic operations in Python.
 
 
-2. Grade & Percentage Program
+3. **Grade & Percentage Program**
+4. 
 Calculate grades and percentages effortlessly with this program. Ideal for students and educators to assess academic performance with ease.
 
 
-3. Number Table Program
+5. **Number Table Program**
+6. 
 This program generates a multiplication table for any number, helping users understand multiplication concepts in a straightforward way.
 
 
-4. Good Morning Program
+7. **Good Morning Program**
 A simple program that greets you with a "Good Morning!" message to start your day with Python motivation.
 
 
-5. KBC (Kaun Banega Crorepati) Game
+8. **KBC (Kaun Banega Crorepati) Game**
+9. 
 A fun, quiz-style game inspired by the popular KBC show. Answer multiple-choice questions and test your knowledge while having fun.
 
 
-6. Snake-Water-Gun Game
+10. **Snake-Water-Gun Game**
+11. 
 A classic game that allows you to play Snake-Water-Gun (similar to Rock-Paper-Scissors) against the computer. Try to beat the computer in this quick and exciting game!
 
 
-7. News App
+12. **News App**
+13. 
 Get the latest news headlines with this Python-powered news app. Stay updated with current events directly from your terminal.
 
 
-8. Message Reminder
+14. **Message Reminder**
+15. 
 A handy message reminder application to keep track of important messages and reminders. Perfect for personal productivity.
 
 
-9. Stone-Paper-Scissor Game
+16. **Stone-Paper-Scissor Game**
+17. 
 Another variation of the classic Rock-Paper-Scissors game, where you can challenge the computer and see who wins.
 
 
-10. Guess The Number
+18. **Guess The Number**
+19. 
 A fun guessing game where you have to guess a randomly generated number. Perfect for practicing logic and conditional statements.
 
 
-11. Number Dice
+20. **Number Dice**
+21. 
 Roll a dice to get a random number between 1 and 6, simulating the experience of rolling a physical die.
 
 ---
